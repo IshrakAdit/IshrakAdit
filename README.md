@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ishrak-Adit07&color=blue&style=flat)
 
-<h4>I am Ishrak Adit, pre-final year CS Undergraduate Student at Bangladesh University of Engineering and Technology.</h4>
+I am Ishrak Adit, pre-final year CS Undergraduate Student at Bangladesh University of Engineering and Technology.
 
 <h4>🌐 <a href="https://ishrakadit07.netlify.app/" target="_blank">My Portfolio Website</a></h4>
 
@@ -38,5 +38,3 @@ Want to collaborate? Kindly reach me at:
 - 📘 Facebook: [https://www.facebook.com/ishrak.adit](https://www.facebook.com/ishrak.adit)
 
 ---
-
-<h4>Let's collaborate and make great things happen!</h4>
