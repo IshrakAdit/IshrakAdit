@@ -11,10 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishrak-Adit07&show_icons=true&theme=dark&hide=stars,issues" style="width: 80%; max-width: 80%;">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishrak-Adit07&theme=react" style="width: 40%; max-width: 40%;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishrak-Adit07&theme=react" style="width: 40%; max-width: 40%;">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishrak-Adit07&theme=tokyonight&show_icons=true" style="width: 40%; max-width: 40%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishrak-Adit07&theme=tokyonight&utcOffset=8" style="width: 40%; max-width: 40%;">
+</p>
+
+
