@@ -33,8 +33,8 @@ I am Ishrak Adit, pre-final year CS Undergraduate Student at Bangladesh Universi
 Want to collaborate? Kindly reach me at:
 
 - 📧 Email: [ishrak.adit07@gmail.com](mailto:ishrak.adit07@gmail.com)
-- 🌐 Portfolio: [https://ishrakadit07.netlify.app/](https://ishrakadit07.netlify.app/)
-- 🌍 LinkedIn: [https://www.linkedin.com/in/ishrak-adit/](https://www.linkedin.com/in/ishrak-adit-669a53304/)
+- 🌐 Portfolio: [https://ishrakadit07.netlify.app](https://ishrakadit07.netlify.app/)
+- 🌍 LinkedIn: [https://www.linkedin.com/in/ishrak-adit](https://www.linkedin.com/in/ishrak-adit-669a53304/)
 - 📘 Facebook: [https://www.facebook.com/ishrak.adit](https://www.facebook.com/ishrak.adit)
 
 ---
