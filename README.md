@@ -5,7 +5,7 @@
 I am Ishrak Adit, Final year CS Undergraduate at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/).  
 I am currently a Trainee Software Engineer at [Pridesys IT](https://pridesys.com/).
 
-<h4>🌐 <a href="https://ishrakadit07.netlify.app/" target="_blank">My Portfolio Website</a></h4>
+<h4>🌐 <a href="https://ishrakadit.netlify.app/" target="_blank">My Portfolio Website</a></h4>
 
 ### Profile Overview
 
@@ -34,7 +34,7 @@ I am currently a Trainee Software Engineer at [Pridesys IT](https://pridesys.com
 Want to collaborate? Kindly reach me at:
 
 - 📧 Email: [ishrak.adit07@gmail.com](mailto:ishrak.adit07@gmail.com)
-- 🌐 Portfolio: [https://ishrakadit07.netlify.app](https://ishrakadit07.netlify.app/)
+- 🌐 Portfolio: [https://ishrakadit07.netlify.app](https://ishrakadit.netlify.app/)
 - 🌍 LinkedIn: [https://www.linkedin.com/in/ishrak-adit](https://www.linkedin.com/in/ishrak-adit-669a53304/)
 - 📘 Facebook: [https://www.facebook.com/ishrak.adit](https://www.facebook.com/ishrak.adit)
 
