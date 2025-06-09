@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ishrak-Adit07&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=IshrakAdit&color=blue&style=flat)
 
 I am Ishrak Adit, Final year CS Undergraduate at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/).  
 I am currently a Trainee Software Engineer at [Pridesys IT](https://pridesys.com/).
@@ -10,7 +10,7 @@ I am currently a Trainee Software Engineer at [Pridesys IT](https://pridesys.com
 ### Profile Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishrak-Adit07&theme=react" style="width: 80%; max-width: 80%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshrakAdit&theme=react" style="width: 80%; max-width: 80%;"/>
 </p>
 
 ---
@@ -18,13 +18,13 @@ I am currently a Trainee Software Engineer at [Pridesys IT](https://pridesys.com
 ### Key Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishrak-Adit07&theme=react" style="width: 40%; max-width: 40%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishrak-Adit07&theme=react" style="width: 40%; max-width: 40%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshrakAdit&theme=react" style="width: 40%; max-width: 40%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshrakAdit&theme=react" style="width: 40%; max-width: 40%;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishrak-Adit07&theme=react&show_icons=true" style="width: 40%; max-width: 40%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishrak-Adit07&theme=react&utcOffset=8" style="width: 40%; max-width: 40%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshrakAdit&theme=react&show_icons=true" style="width: 40%; max-width: 40%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshrakAdit&theme=react&utcOffset=8" style="width: 40%; max-width: 40%;"/>
 </p>
 
 ---
