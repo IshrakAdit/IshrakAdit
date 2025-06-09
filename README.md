@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=IshrakAdit&color=blue&style=flat)
-
 I am Ishrak Adit, Final year CS Undergraduate at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/).  
 I am currently a Trainee Software Engineer at [Pridesys IT](https://pridesys.com/).
 
